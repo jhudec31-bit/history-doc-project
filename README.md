@@ -1,2 +1,2 @@
 # history-doc-project
-\This contains history notes for a project
+This repository contains research data and notes regarding historical simulations for educational purposes.
